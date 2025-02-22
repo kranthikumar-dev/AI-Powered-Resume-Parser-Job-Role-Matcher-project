@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/AI-Powered-Resume-Parser-Job-Role-Matcher-project/static/css/main.0b982cd2.css",
+    "main.css": "/AI-Powered-Resume-Parser-Job-Role-Matcher-project/static/css/main.0c137810.css",
     "main.js": "/AI-Powered-Resume-Parser-Job-Role-Matcher-project/static/js/main.25fb4c32.js",
     "index.html": "/AI-Powered-Resume-Parser-Job-Role-Matcher-project/index.html",
-    "main.0b982cd2.css.map": "/AI-Powered-Resume-Parser-Job-Role-Matcher-project/static/css/main.0b982cd2.css.map",
+    "main.0c137810.css.map": "/AI-Powered-Resume-Parser-Job-Role-Matcher-project/static/css/main.0c137810.css.map",
     "main.25fb4c32.js.map": "/AI-Powered-Resume-Parser-Job-Role-Matcher-project/static/js/main.25fb4c32.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b982cd2.css",
+    "static/css/main.0c137810.css",
     "static/js/main.25fb4c32.js"
   ]
 }
